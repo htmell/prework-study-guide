@@ -8,10 +8,16 @@
     line-height: 1.5;
 }
 
-header,
+header {
+    width: 100%;
+    height: 140px;
+    background-color: blue;
+    color: white;
+}
+
 footer {
     width: 100%;
-    height: 120px;
+    height: 45px;
     background-color: blue;
     color: white;
 }
